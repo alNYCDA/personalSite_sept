@@ -1,0 +1,12 @@
+body{
+	background:orange;
+	padding:0px;
+	margin:0px;
+}
+
+.wrap{
+	border:solid 1px black;
+	height:100vh;
+	margin:0 auto;
+	width:960px;
+}
